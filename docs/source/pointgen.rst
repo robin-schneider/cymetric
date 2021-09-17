@@ -27,14 +27,6 @@ is used for toric Calabi~Yaus.
 .. automodule:: cymetric.pointgen.pointgen_toric
     :members:
 
-Point Generator Wolfram
-~~~~~~~~~~~~~~~~~~~~~~~
-
-contains arbitrary precision Pointgenerators based on the Wolfram language.
-
-.. automodule:: cymetric.pointgen.pointgen_mathematica
-    :members:
-
 Numpy Helper
 ~~~~~~~~~~~~
 
