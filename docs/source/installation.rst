@@ -14,9 +14,4 @@ Then install with pip
 
     pip install git+https://github.com/robin-schneider/cymetric.git
 
-for the latest version. There will also be (stable) releases on pypi,
-so you can also try
-
-.. code-block:: bash
-
-    pip install cymetric
+for the latest version.
