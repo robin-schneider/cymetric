@@ -19,7 +19,7 @@ the arXiv announcement of our paper.
 * Point Generators for Complete Intersection Calabi-Yau manifolds and hypersurfaces
  from the Kreuzer-Skarke list (requires SageMath).
 * A collection of custom TensorFlow models with different metric Ansätze.
-* A matehmatica API for the point generators and TensorFlow models(*).
+* A mathematica API for the point generators and TensorFlow models(*).
 * Custom models for the bundle metric(*).
 * Documentation exists(*).
 
@@ -31,17 +31,11 @@ Create a new environment with
 conda create -n cymetric python=3.9
 ```
 
-Then install with pip directly from github  
+Then install with pip directly from github
 
 ```console
 conda activate cymetric
 pip install git+https://github.com/robin-schneider/cymetric.git
-```
-
-or if you want to have a more stable release with
-
-```console
-pip install cymetric
 ```
 
 ## Tutorials
